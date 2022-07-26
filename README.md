@@ -4,6 +4,9 @@
 
 React-js & Tailwind
 
+## Live Demo
+[Netlify](https://akash-dashboard.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
